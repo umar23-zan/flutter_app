@@ -1,0 +1,14 @@
+{
+  "name": "Flutter Dev",
+  "image": "microsoft/devcontainers/flutter",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dart-code.flutter"
+      ]
+    }
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:1": {}
+  }
+}
